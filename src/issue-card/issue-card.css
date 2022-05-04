@@ -1,0 +1,45 @@
+.p {
+  color: #20037e;
+  text-align: center;
+}
+
+.card-container {
+  padding: 15px;
+  margin: 5px;
+  text-align: left;
+  background-color: rgb(255, 255, 255);
+  width: 80%;
+  border: 0.02px solid rgb(155, 144, 218);
+}
+
+.card-container > ul {
+  list-style: none;
+}
+
+.issue-id {
+  font-size: 15px;
+}
+.close-btn {
+  background-color: yellow;
+}
+
+.delete-btn {
+  background-color: red;
+}
+
+.close-tag {
+  margin-top: 5px;
+  width: 100px;
+  justify-content: center;
+  text-align: center;
+  border: 0.02px solid rgb(155, 144, 218);
+  background-color: aqua;
+  font-size: 18px;
+  font-weight: 200;
+}
+
+.severity-name {
+  justify-content: center;
+  text-align: left;
+  top: 50%;
+}

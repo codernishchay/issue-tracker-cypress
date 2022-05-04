@@ -1,0 +1,18 @@
+/* Add a black background color to the top navigation */
+.topnav {
+  padding: 20px;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 5px;
+  background: #ffffff;
+  box-shadow: 5px 5px 10px #dbdbdb, -5px -5px 10px #ffffff;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #0e0779;
+  padding-left: 30px;
+  text-decoration: none;
+  font-size: 30px;
+}
